@@ -25,7 +25,7 @@ _Collaborate and work together on GitHub._
 
 _Welcome to "Review pull requests"! :wave:_
 
-Let's get started by opening a pull request.
+Let's get started by opening a _pull request_.
 
 **What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
 
